@@ -1,6 +1,6 @@
 # John Doe - Cybersecurity Analyst
 
-![John Doe](sample-photo.png) <!-- Optional: Add your professional photo here - even incorporate it as a banner in Canva or other image editor! -->
+![18106](https://github.com/user-attachments/assets/2cce9527-83cc-4e01-9430-b1da00dd305a) <!-- Optional: Add your professional photo here - even incorporate it as a banner in Canva or other image editor! -->
 
 [Email](mailto:john.doe@example.com) | [LinkedIn](https://www.linkedin.com/in/johndoe/) | [Website](https://www.johndoe.com) 
 
