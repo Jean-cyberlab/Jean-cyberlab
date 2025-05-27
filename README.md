@@ -1,6 +1,7 @@
-# John Doe - Cybersecurity Analyst
+# Jean Molin- Cybersecurity Analyst
 
-![18106](https://github.com/user-attachments/assets/2cce9527-83cc-4e01-9430-b1da00dd305a) <!-- Optional: Add your professional photo here - even incorporate it as a banner in Canva or other image editor! -->
+![2151637760](https://github.com/user-attachments/assets/dfc3eab8-7bd7-482c-95d2-758a11f42041)
+ <!-- Optional: Add your professional photo here - even incorporate it as a banner in Canva or other image editor! -->
 
 [Email](mailto:john.doe@example.com) | [LinkedIn](https://www.linkedin.com/in/johndoe/) | [Website](https://www.johndoe.com) 
 
@@ -21,84 +22,22 @@ I am passionate about applying my knowledge to protect organizations from evolvi
 
 ---
 
-### [Project 1: The Stolen Szechuan Sauce Forensics Analysis](https://github.com/johndoe/szechuansauce)
-A comprehensive toolkit designed to automate penetration testing tasks. It includes scripts and tools for reconnaissance, exploitation, and post-exploitation phases.
+### 🛡️Vulnerability Management
+- **
+- **
+- **
 
-### [Project 2: Risk Management Case Study](https://github.com/johndoe/risk-management)
-Conducted a basic network vulnerability assessment on a small lab environment. Identified potential security flaws and recommended mitigation strategies.
+### 🔎Threat Hunting & Security Operations
+- **
+- **
+- **
 
-### [Project 3: Cat's Company Vulnerabilities](https://github.com/johndoe/cats-company-vulnerabilities)
-Explored common web application vulnerabilities, including SQL injection and XSS, and implemented basic protective measures.
-
-### [Project 4: Investigation & Research Report](https://github.com/johndoe/investigation-and-research-report)
-Participated in a simulated incident response scenario, analyzing logs, identifying threats, and documenting the response process.
-
----
-
-## Experience
-
-### Cybersecurity Bootcamp Graduate - [Lighthouse Labs](https://www.lighthouselabs.ca)
-*June 2024 - September 2024*
-
-- Completed over 600 hours of hands-on training including on network security, incident response, and digital forensics.
-- Engaged in real-world simulations, learning to manage and secure networks, perform vulnerability assessments, and handle cyber incidents.
-- Developed an understanding of cryptographic processes, SOC operations, and the creation of security policies that meet GRC requirements.
-  
----
-
-## Education
-
-### Lighthouse Labs, Cybersecurity
-*2024*
-
+### 🔒Governance, Risk, and Compliance
+- **
+- **
+- **
 
 ---
-
-## Blog/Writing
-- [My Journey into Cybersecurity](https://www.johndoe.com/blog/my-journey)
-- [Top 5 Lessons from My Bootcamp Experience](https://www.johndoe.com/blog/bootcamp-lessons)
-
----
-
-## Public Speaking & Workshops
-- **Lighthouse Labs Bootcamp Final Presentation:** "Securing Premium House Lights from Cyber Attack"
-
----
-
-## Testimonials
-
-_"John is a quick learner with a strong passion for cybersecurity. He was always eager to help others and contributed valuable insights during group projects."_   
-— Jane Smith, Bootcamp Instructor  
-
-_"John consistently went above and beyond in our group projects. He has a keen eye for detail, especially when it comes to identifying potential vulnerabilities in systems. His collaborative spirit and willingness to share his knowledge made him a key contributor to our team's success."_   
-— Sarah Nguyen, Bootcamp Peer
-
----
-
-## Contact
-
-Feel free to reach out to me via [email](mailto:john.doe@example.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/johndoe/).
-
----
-
-*Looking forward to contributing to the cybersecurity community!*
-
-![Profile Views](https://komarev.com/ghpvc/?username=replace-with-your-github-username&label=My%20Profile%20Views:&style=flat-square&color=blue)
-
----
----
----
-Below are just some 'buttons' ('shields') you can study how to use them and modify them.  Get more information at [https://shields.io](https://shields.io/badges)
-
-## Skills
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
-
-## Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
 
 ## Certifications
 ![CEH](https://img.shields.io/badge/Certified%20Ethical%20Hacker-CEH-RED?style=plastic&logo=hackthebox&logoColor=white)
