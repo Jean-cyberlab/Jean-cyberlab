@@ -21,50 +21,6 @@ I am passionate about applying my knowledge to protect organizations from evolvi
 
 ---
 
-## Skills
-
-### Network Security
-- Understanding of the OSI 7-layer model and TCP/IP concepts
-- Experience with network segmentation and managing single-site networks
-- Familiarity with secure design principles and network adjustments to enhance the CIA triad (Confidentiality, Integrity, Availability)
-
-### Risk and Vulnerability Management
-- Proficient in conducting risk/vulnerability assessments using tools like NVD and CVSS
-- Ability to identify risks, vulnerabilities, exploits, and threats, and implement appropriate mitigations
-- Understanding of the threat landscape and how various threats affect different organizations
-
-### Cryptography
-- Knowledge of basic cryptographic processes, including encryption, decryption, and key exchange
-- Experience with signing certificates and understanding cryptographic impacts on security
-
-### Incident Response and SOC Operations
-- Familiarity with SOC operations, including using SIEM systems to identify Indicators of Compromise (IoCs)
-- Experience in incident response, following NIST RMF steps and creating IR playbooks for remediation and mitigations
-- Understanding of the role of Blue, Red, and Purple teams in cybersecurity operations
-
-### Digital Forensics and Malware Analysis
-- Knowledge of forensics, including investigating and analyzing digital evidence and registry forensics
-- Experience with malware analysis and understanding its role in threat defense
-
-### Python Scripting
-- Ability to write Python scripts to automate and enhance cybersecurity measures
-- Experience with analyzing logs, system, and network traffic through custom scripts
-
-### Security Policies and GRC
-- Understanding of GRC (Governance, Risk, and Compliance) requirements and recommendations
-- Experience in developing and adhering to security policies that align with organizational needs
-
-
----
-
-## Certifications
-- **CompTIA Security+** *(In Progress)*
-- **Lighthouse Labs Cybersecurity Diploma** *(2024)*
-
----
-
-## Projects
-
 ### [Project 1: The Stolen Szechuan Sauce Forensics Analysis](https://github.com/johndoe/szechuansauce)
 A comprehensive toolkit designed to automate penetration testing tasks. It includes scripts and tools for reconnaissance, exploitation, and post-exploitation phases.
 
