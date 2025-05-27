@@ -23,7 +23,7 @@ I am passionate about applying my knowledge to protect organizations from evolvi
 ---
 
 ### 🛡️Vulnerability Management
-- **
+- [Vulnerability Management Program Implementation](https://github.com/Jean-cyberlab/Vulnerability-Management?tab=readme-ov-file#vulnerability-management-program-implementation)
 - **
 - **
 
