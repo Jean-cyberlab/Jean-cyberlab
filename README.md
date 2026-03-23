@@ -9,16 +9,7 @@
 
 ## Introduction
 
-Hello! I'm John Doe, an enthusiastic and dedicated cybersecurity professional with a recent certification from Lighthouse Labs' rigorous Cybersecurity Bootcamp. My training encompassed a wide range of cybersecurity topics, from foundational concepts like the CIA triad and OSI model to more detailed practices in incident response, threat defense operations, and digital forensics.
-
-At Lighthouse Labs, I developed a strong command of the Linux operating system, mastering commonly used commands essential for managing and securing networks. My understanding of network security was further deepened through hands-on experience with network segmentation, adjusting existing networks to improve security, and analyzing how changes can impact confidentiality, integrity, and availability.
-
-I gained practical skills in risk and vulnerability assessments, learning to identify potential threats, evaluate risks, and implement appropriate mitigations. My training also covered the use of industry-standard tools such as SIEM systems for identifying Indicators of Compromise (IoCs), as well as employing the MITRE ATT&CK framework and Lockheed Martin Cyber Kill Chain model to defend against sophisticated cyber threats.
-
-In addition to technical skills, I am versed in SOC operations, incident handling, and the creation of security policies that align with GRC requirements. My bootcamp experience also introduced me to the roles of Blue, Red, and Purple teams, giving me a comprehensive understanding of both defensive and offensive security strategies.
-
-I am passionate about applying my knowledge to protect organizations from evolving cyber threats and am eager to contribute to a team where I can continue to grow and make a meaningful impact. I am particularly interested in roles that allow me to leverage my skills in vulnerability assessment, incident response, and threat defense operations.
-
+Hello! I am an aspiring cybersecurity analyst breaking into the field through hands-on practice. Focused on threat hunting, incident response, and vulnerability management. This GitHub documents all my Cybersecurity investigative work and what I learned along the way..
 
 ---
 
