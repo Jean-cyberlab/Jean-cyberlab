@@ -19,7 +19,7 @@ Hello! I am an aspiring cybersecurity analyst breaking into the field through ha
 - **
 
 ### 🔎Threat Hunting & Security Operations
-- [Ransomeware-Threat hunt](https://github.com/Jean-cyberlab/Threat-Hunt-Ransomware/tree/main)
+- [Ransomeware-Threat Hunt](https://github.com/Jean-cyberlab/Threat-Hunt-Ransomware/tree/main)
 - **
 - **
 
